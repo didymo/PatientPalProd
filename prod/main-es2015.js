@@ -2669,11 +2669,11 @@ __webpack_require__.r(__webpack_exports__);
 
 const environment = {
     production: false,
-    surveysURL: 'http://qadrupal.lan.sesahs.nsw.gov.au/tabview/edit',
-    drupalURL: 'http://qadrupal.lan.sesahs.nsw.gov.au/rest/tab/list?_format=json',
-    tabViewURL: 'http://qadrupal.lan.sesahs.nsw.gov.au/rest/content/tab/get/',
-    formServerURL: 'http://qadrupal.lan.sesahs.nsw.gov.au:81/',
-    formServerApplicationURL: 'http://localhost:4200/form/'
+    surveysURL: 'https://qadrupal.lan.sesahs.nsw.gov.au/tabview/edit',
+    drupalURL: 'https://qadrupal.lan.sesahs.nsw.gov.au/rest/tab/list?_format=json',
+    tabViewURL: 'https://qadrupal.lan.sesahs.nsw.gov.au/rest/content/tab/get/',
+    formServerURL: 'https://qadrupal.lan.sesahs.nsw.gov.au:81/',
+    formServerApplicationURL: 'https://localhost:4200/form/'
 };
 /*
  * For easier debugging in development mode, you can import the following file
